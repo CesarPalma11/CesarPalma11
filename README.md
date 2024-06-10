@@ -22,7 +22,7 @@ Cesar</a></h1>
 ### Contacto: 
 <p align='left'>
    <a href="https://www.linkedin.com/in/cesarpalma11/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;      
- <a href="https://www.linkedin.com/in/cesarpalma11/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:cesarpalmag16@gmail.com"></a>&nbsp;&nbsp;
+ <a href="mailto:cesarpalmag16@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:cesarpalmag16@gmail.com"></a>&nbsp;&nbsp;
  </p>
 
  ------
